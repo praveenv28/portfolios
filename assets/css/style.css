@@ -12131,6 +12131,8 @@ button.rn-btn {
   font-size: 14px;
   font-weight: 500;
   border: 0 none;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 a.rn-btn::before,
 button.rn-btn::before {
